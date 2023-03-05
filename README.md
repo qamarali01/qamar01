@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qamarali01
 # 💫 About Me:
-I'm currently working on a website for an NGO
+I'm currently working on a website for an NGO and simultaneously also learning data science with python.
 
 
 ## 🌐 Socials:
@@ -17,7 +17,6 @@ I'm currently working on a website for an NGO
 [![](https://visitcount.itsvg.in/api?id=qamarali01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!---
 qamarali01/qamarali01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
