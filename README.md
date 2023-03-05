@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @qamarali01
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript.
-- 📫 How to reach me ...qamarali9584@gmail.com
+I'm a front end web developer and a Machine learning student.
+
 
 <!---
 qamarali01/qamarali01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
